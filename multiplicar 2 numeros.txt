@@ -1,0 +1,7 @@
+1) leer numero1 y numero 2
+
+2) guardar resultado de numero1 * numero2
+
+3)escribir "el resultado de la cuenta es " + resultado
+
+fin

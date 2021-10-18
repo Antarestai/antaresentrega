@@ -1,0 +1,13 @@
+
+
+1)declarar variable a, b y c
+
+2)si a + b == c, escribir a + b es igual a c
+
+3)si a + c == b, escribir a + c es igual a b
+
+4)si c + b == a, escribir c + b es igual a a
+
+fin
+
+

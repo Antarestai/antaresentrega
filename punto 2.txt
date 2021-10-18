@@ -1,0 +1,9 @@
+variable base, altura y resultado 
+
+1)se ingresa la base y la altura
+
+2)base * altura igual a resultado
+
+3) resultado / 2 
+
+fin
